@@ -27,7 +27,7 @@
     color:white;
 
 }
-/*------------select money button------------*/
+/*------------select money button style------------*/
 .button-select-money{
     padding:40px 20px;
     border:0;
@@ -46,10 +46,11 @@
     font-size: 40px;
     margin-left: 15px;
 }
-/*--------------section 1------------------*/
+/*---------------Donate Today------------------*/
 .section1-style{
     text-align: center;
     padding: 150px 0;
 }
-.gray-coloring{color:gray}
+.gray-coloring
+{color:gray}
 
