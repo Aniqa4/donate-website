@@ -105,3 +105,10 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius:5px ;
 }
+/*------------------footer----------------------*/
+.footer-style{
+    background-color: rgb(14, 14, 27);
+    text-align: center;
+    color:white;
+    padding: 100px 0;
+}
