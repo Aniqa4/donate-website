@@ -68,3 +68,14 @@
     margin-left:25px;
     border-radius: 10px;
 }
+/*-------------------3rd step---------------------*/
+.section2-style{
+    text-align: left;
+    padding-top: 150px;
+    margin: 0 400px 0 225px;
+}
+.secondary2-text{
+    font-size: 20px;
+    color:gray;
+
+}
